@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👨‍💻 Prompt Engineer | AI Enthusiast
 
-<!--
-**Alex15062012/alex15062012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я занимаюсь разработкой, тестированием и оптимизацией промптов для больших языковых моделей (LLM), таких как GPT.
 
-Here are some ideas to get you started:
+💡 Мои навыки:
+- Prompt Design & Optimization  
+- Работа с LLM (OpenAI, Claude, etc.)  
+- NLP и генеративные модели  
+- Автоматизация AI-процессов  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Цель — создавать точные, управляемые и масштабируемые AI-решения.
+
+📂 В репозиториях:
+- Кейсы с промптами  
+- Эксперименты с AI  
+- Инструменты и гайды  
+
+📬 Контакты: [добавь]
